@@ -1,4 +1,9 @@
-### Hi, I'm Lingyun Yang 👋
+### Hi, I'm Lingyun 👋
+
+- 🤔 CS PhD student at HKUST, Big Fan of GSW, Food Lovers
+- 🔭 Personal Blog (in Chinese): https://mental2008.github.io/
+- 🌱 Academic Profile: http://www.cse.ust.hk/~lyangbk/
+- 📫 Send me an email to yangly1999@gmail.com, if you have any questions.
 
 <!--
 **mental2008/mental2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
