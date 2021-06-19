@@ -2,7 +2,7 @@
 
 - 🤔  CS PhD student at HKUST, Big Fan of GSW, Food Lover
 - 🔭  Personal Blog (in Chinese): https://mental2008.github.io/
-- 🌱  Academic Profile: http://www.cse.ust.hk/~lyangbk/
+- 🌱  Academic Profile: https://www.cse.ust.hk/~lyangbk/
 - 📫  Send me an email to yangly1999@gmail.com, if you have any questions.
 
 <!--
