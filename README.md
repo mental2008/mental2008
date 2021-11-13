@@ -1,5 +1,9 @@
 ### Hi, I'm Lingyun 👋
 
+![stars](https://img.shields.io/github/stars/mental2008?affiliations=COLLABORATOR&style=social)
+![followers](https://img.shields.io/github/followers/mental2008?style=social)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mental2008.mental2008)
+
 - 🤔  CS Ph.D. student at HKUST, Big Fan of GSW, Food Lover
 - 🔭  Personal Blog (in Chinese): https://mental2008.github.io/
 - 🌱  Academic Profile: https://www.cse.ust.hk/~lyangbk/
