@@ -6,7 +6,7 @@
 ![profile views](https://komarev.com/ghpvc/?username=mental2008)
 
 - 🤔  CS Ph.D. student at HKUST, Big Fan of GSW, Food Lover
-- 🔭  Personal Blog (in Chinese): https://mental2008.github.io/
+- 🔭  Personal Blog (in Chinese): https://blog.yanglingyun.me/
 - 🌱  Academic Profile: https://www.cse.ust.hk/~lyangbk/
 - 📫  Send me an email to yangly1999@gmail.com, if you have any questions.
 
