@@ -6,9 +6,10 @@
 ![profile views](https://komarev.com/ghpvc/?username=mental2008)
 
 - 🤔  CS Ph.D. student at HKUST, Big Fan of GSW, Food Lover
-- 🔭  Personal Blog (in Chinese): https://blog.yanglingyun.me/
 - 🌱  Academic Profile: https://www.cse.ust.hk/~lyangbk/
-- 📫  Send me an email to yangly1999@gmail.com, if you have any questions.
+- 🔭  Personal Blog (in Chinese): https://blog.yanglingyun.me/
+- 📜  Read Papers (in English): https://paper.yanglingyun.me/
+- 📫  Send me an email to lyangbk@cse.ust.hk, if you have any questions.
 
 <!--
 **mental2008/mental2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
