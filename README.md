@@ -6,9 +6,9 @@
 ![profile views](https://komarev.com/ghpvc/?username=mental2008)
 
 - 🤔  CS Ph.D. student at HKUST, Big Fan of GSW, Food Lover
-- 🌱  Academic Profile: https://www.cse.ust.hk/~lyangbk/
-- 🔭  Personal Blog (in Chinese): https://blog.yanglingyun.me/
-- 📜  Read Papers (in English): https://paper.yanglingyun.me/
+- 🌱  Academic Profile: https://www.lingyunyang.com/
+- 📜  Read Papers (in English): https://paper.lingyunyang.com/
+- 🔭  Personal Blog (in Chinese): https://blog.lingyunyang.com/
 - 📫  Send me an email to lyangbk@cse.ust.hk, if you have any questions.
 
 <!--
