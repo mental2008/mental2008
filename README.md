@@ -5,11 +5,11 @@
 ![twitter](https://img.shields.io/twitter/follow/stephenyang1999.svg?style=social)
 ![profile views](https://komarev.com/ghpvc/?username=mental2008)
 
-- 🤔  CS Ph.D. student at HKUST, Big Fan of GSW, Food Lover
+- 🤔  AI Infra Researcher, Big Fan of GSW, Food Lover
 - 🌱  Academic Profile: https://www.lingyunyang.com/
 - 📜  Read Papers (in English): https://paper.lingyunyang.com/
 - 🔭  Personal Blog (in Chinese): https://blog.lingyunyang.com/
-- 📫  Send me an email to lyangbk@cse.ust.hk, if you have any questions.
+- 📫  Send me an email to yangly1999@gmail.com, if you have any questions.
 
 <!--
 **mental2008/mental2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
